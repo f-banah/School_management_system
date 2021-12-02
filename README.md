@@ -1,7 +1,7 @@
 # School_management_system
 It's a web application that helps administration to manage professors, students , classes and subjects.
 
-#Tools : 
+# Tools : 
 -Django 
 -Tailwind 
 -Python 
@@ -9,4 +9,4 @@ It's a web application that helps administration to manage professors, students 
 -CSS 
 -PostGreSQL
 
-#The attached file "Report.pdf" includes screens of the web application and detailed explanation.
+# The attached file "Report.pdf" includes screens of the web application and detailed explanation.
