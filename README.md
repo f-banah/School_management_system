@@ -3,10 +3,10 @@ It's a web application that helps administration to manage professors, students 
 
 # Tools : 
 - Django 
--Tailwind 
--Python 
--HTML 
--CSS 
--PostGreSQL
+- Tailwind 
+- Python 
+- HTML 
+- CSS 
+- PostGreSQL
 
 # The attached file "Report.pdf" includes screens of the web application and detailed explanation.
